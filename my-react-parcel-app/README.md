@@ -31,9 +31,6 @@ npm install
 npm run start
 Parcel will launch a local dev server at:
 
-arduino
-Copy
-Edit
 http://localhost:1234
 
 ```
